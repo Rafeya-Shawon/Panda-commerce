@@ -1,0 +1,11 @@
+.bg-sakura{
+    background-color: #feeae9;
+}
+
+.buy-now-btn{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
